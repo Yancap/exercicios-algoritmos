@@ -1,0 +1,12 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "numeros-primos.js",
+  "scripts": {
+    "start": "node sort-array.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
